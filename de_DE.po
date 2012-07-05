@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Radioactivist\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-11 21:54+0100\n"
+"PO-Revision-Date: 2012-01-11 21:54+0100\n"
+"Last-Translator: Julia <julia.bode@lulisaur.us>\n"
+"Language-Team: Lulisaurus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: German\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: 404.php:17
+msgid "Error 404 - Page Not Found"
+msgstr ""
+
+#: archive.php:21
+#: archive.php:25
+#: archive.php:27
+#: archive.php:29
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:23
+#, fuzzy
+msgid "Posts Tagged"
+msgstr "Gepostet:"
+
+#: archive.php:31
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:33
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:42
+#: search.php:26
+msgid "Posted:"
+msgstr "Gepostet:"
+
+#: archive.php:42
+#: comments-popup.php:51
+#: index.php:25
+#: search.php:26
+#: single.php:23
+msgid "by"
+msgstr "von"
+
+#: archive.php:42
+#: index.php:25
+#: search.php:26
+#: single.php:23
+msgid "in"
+msgstr "in"
+
+#: archives.php:18
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:28
+msgid "Archives by Subject:"
+msgstr ""
+
+#: comments-popup.php:9
+msgid "Comments on"
+msgstr ""
+
+#: comments-popup.php:28
+#: comments.php:23
+msgid "Comments"
+msgstr ""
+
+#: comments-popup.php:30
+msgid "RSS</abbr> feed for comments on this post."
+msgstr ""
+
+#: comments-popup.php:33
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is:"
+msgstr ""
+
+#: comments-popup.php:57
+#: comments.php:37
+msgid "No comments yet."
+msgstr ""
+
+#: comments-popup.php:61
+msgid "Leave a comment"
+msgstr ""
+
+#: comments-popup.php:62
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
+msgstr ""
+
+#: comments-popup.php:66
+#: comments.php:60
+msgid "Logged in as"
+msgstr ""
+
+#: comments-popup.php:66
+#: comments.php:62
+msgid "Log out of this account"
+msgstr ""
+
+#: comments-popup.php:66
+#: comments.php:62
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments-popup.php:70
+msgid "Name"
+msgstr ""
+
+#: comments-popup.php:75
+msgid "E-mail"
+msgstr ""
+
+#: comments-popup.php:80
+msgid "URL"
+msgstr ""
+
+#: comments-popup.php:85
+msgid "Your Comment"
+msgstr ""
+
+#: comments-popup.php:98
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments-popup.php:103
+msgid "Close this window."
+msgstr ""
+
+#: comments-popup.php:109
+#: single.php:38
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: comments-popup.php:113
+msgid "Powered by"
+msgstr ""
+
+#: comments-popup.php:113
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform"
+msgstr ""
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:55
+msgid "You must be <a href=\"<?php echo wp_login_url( get_permalink() ); ?>\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:65
+msgid "Name*"
+msgstr ""
+
+#: comments.php:67
+msgid "Mail* (will not be published)"
+msgstr ""
+
+#: comments.php:69
+msgid "Website"
+msgstr ""
+
+#: footer.php:16
+msgid "Legal Notice"
+msgstr "Impressum"
+
+#: footer.php:17
+msgid "Contact Us"
+msgstr ""
+
+#: footer.php:18
+msgid "Webdesign by"
+msgstr ""
+
+#: header.php:51
+msgid "A Film by Julia Leser and Clarissa Seidel"
+msgstr ""
+
+#: image.php:35
+msgid "This entry was posted on"
+msgstr ""
+
+#: image.php:35
+msgid "at"
+msgstr ""
+
+#: image.php:36
+msgid "and is filed under"
+msgstr ""
+
+#: image.php:38
+msgid "You can follow any responses to this entry through the <?php post_comments_feed_link(\"RSS 2.0\"); ?> feed."
+msgstr ""
+
+#: image.php:42
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\"<?php trackback_url(); ?>\" rel=\"trackback\">trackback</a> from your own site."
+msgstr ""
+
+#: image.php:46
+msgid "Responses are currently closed, but you can <a href=\"<?php trackback_url(); ?> \" rel=\"trackback\">trackback</a> from your own site."
+msgstr ""
+
+#: image.php:50
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#: image.php:54
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: image.php:69
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: index.php:25
+#: single.php:23
+#, php-format
+msgid "Posted: %s"
+msgstr "Veröffentlicht am %s"
+
+#: links.php:22
+msgid "Links:"
+msgstr ""
+
+#: search.php:18
+msgid "Search Results"
+msgstr ""
+
+#: search.php:50
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Latest Posts"
+msgstr ""
+
+#: sidebar.php:30
+msgid "Categories"
+msgstr ""
+
+#: single.php:46
+msgid "newer posts"
+msgstr "neue Artikel"
+
+#: single.php:47
+#, fuzzy
+msgid "older posts"
+msgstr "neue Artikel"
+
